@@ -1,0 +1,200 @@
+﻿respondent_id,variant,answer_a,answer_b,answer_c,answer_d,answer_e,completion_minutes
+1,A,Not at all interested,Yes,No,Yes,Credit card,13.2
+2,A,Somewhat interested,Yes,No,Yes,Debit card,11.4
+3,A,Somewhat interested,No,Yes,No,Debit card,8.7
+4,A,Somewhat interested,Yes,No,Yes,Debit card,18.5
+5,A,Somewhat interested,Yes,No,Yes,Credit card,16.1
+6,A,Slightly interested,Yes,No,Yes,Credit card,7.0
+7,A,Not at all interested,Yes,No,Yes,Debit card,12.3
+8,A,Not at all interested,No,Yes,No,Debit card,20.1
+9,A,Very interested,Yes,No,Yes,Debit card,14.3
+10,A,Very interested,Yes,No,Yes,BNPL,2.8
+11,A,Not at all interested,No,Yes,No,Cash,16.0
+12,A,Somewhat interested,Yes,No,Yes,Cash,12.2
+13,A,Somewhat interested,Yes,No,Yes,Cash,5.3
+14,A,Somewhat interested,Yes,No,Yes,Cash,17.6
+15,A,Not at all interested,Yes,No,Yes,Credit card,8.9
+16,A,Somewhat interested,Yes,No,Yes,Debit card,8.1
+17,A,Somewhat interested,No,Yes,No,Debit card,17.2
+18,A,Somewhat interested,Yes,No,Yes,Debit card,8.7
+19,A,Somewhat interested,Yes,No,Yes,Credit card,3.3
+20,A,Slightly interested,Yes,No,Yes,Credit card,17.8
+21,A,Not at all interested,Yes,No,Yes,Debit card,8.6
+22,A,Not at all interested,No,No,No,Debit card,7.0
+23,A,Very interested,Yes,No,Yes,Debit card,13.6
+24,A,Very interested,No,No,No,BNPL,10.4
+25,A,Somewhat interested,No,Yes,No,Cash,1.6
+26,A,Slightly interested,Yes,No,Yes,Cash,13.9
+27,A,Not at all interested,Yes,No,Yes,Cash,21.0
+28,A,Not at all interested,No,Yes,No,Cash,12.9
+29,A,Somewhat interested,Yes,No,Yes,Credit card,17.1
+30,A,Somewhat interested,Yes,No,Yes,Debit card,16.0
+31,A,Somewhat interested,Yes,No,Yes,Debit card,16.7
+32,A,Somewhat interested,Yes,No,Yes,Debit card,6.9
+33,A,Slightly interested,No,Yes,No,Credit card,11.7
+34,A,Not at all interested,Yes,No,No,Credit card,18.1
+35,A,Not at all interested,Yes,No,Yes,Debit card,6.6
+36,A,Very interested,No,No,Yes,Debit card,18.7
+37,A,Very interested,Yes,No,Yes,Debit card,11.5
+38,A,Very interested,Yes,No,Yes,BNPL,3.1
+39,A,Very interested,Yes,No,Yes,Cash,18.0
+40,A,Not at all interested,Yes,Yes,Yes,Cash,11.6
+41,A,Somewhat interested,Yes,No,Yes,Cash,20.7
+42,A,Somewhat interested,No,No,No,Cash,10.2
+43,A,Somewhat interested,Yes,No,Yes,Credit card,18.6
+44,A,Somewhat interested,Yes,No,Yes,Debit card,7.4
+45,A,Slightly interested,Yes,No,Yes,Debit card,12.6
+46,A,Not at all interested,Yes,No,Yes,Debit card,8.3
+47,A,Not at all interested,No,Yes,No,Credit card,15.0
+48,A,Somewhat interested,Yes,No,Yes,Credit card,8.2
+49,A,Somewhat interested,Yes,No,Yes,Debit card,17.6
+50,A,Somewhat interested,Yes,No,Yes,Debit card,13.1
+51,A,Somewhat interested,Yes,No,Yes,Debit card,4.8
+52,A,Slightly interested,No,Yes,No,BNPL,19.6
+53,A,Not at all interested,Yes,No,Yes,Cash,13.1
+54,A,Not at all interested,Yes,No,Yes,Cash,6.9
+55,A,Not at all interested,No,No,Yes,Cash,3.6
+56,A,Somewhat interested,Yes,No,Yes,Cash,18.8
+57,A,Somewhat interested,Yes,No,Yes,Debit card,21.3
+58,A,Somewhat interested,Yes,Yes,Yes,BNPL,13.4
+59,A,Somewhat interested,Yes,No,Yes,Cash,7.6
+60,A,Slightly interested,Yes,No,Yes,Cash,9.6
+61,A,Not at all interested,No,Yes,No,Cash,19.5
+62,A,Not at all interested,Yes,No,Yes,Cash,10.9
+63,A,Somewhat interested,Yes,No,Yes,Credit card,7.6
+64,A,Somewhat interested,Yes,No,Yes,Debit card,16.5
+65,A,Somewhat interested,Yes,No,Yes,Debit card,1.6
+66,A,Somewhat interested,No,Yes,No,Debit card,18.8
+67,A,Slightly interested,Yes,No,Yes,Credit card,8.1
+68,A,Not at all interested,No,Yes,No,Credit card,2.7
+69,A,Not at all interested,No,No,No,Debit card,14.4
+70,A,Very interested,Yes,No,No,Debit card,3.8
+71,A,Very interested,Yes,No,Yes,Debit card,10.8
+72,A,Very interested,No,No,Yes,BNPL,12.2
+73,A,Not at all interested,Yes,Yes,Yes,Cash,6.8
+74,A,Somewhat interested,Yes,No,Yes,Cash,5.0
+75,A,Somewhat interested,Yes,No,Yes,Cash,15.5
+76,A,Somewhat interested,Yes,No,Yes,Cash,5.7
+77,A,Somewhat interested,No,Yes,No,Debit card,19.6
+78,A,Not at all interested,Yes,No,Yes,BNPL,4.1
+79,A,Somewhat interested,Yes,No,Yes,Cash,7.3
+80,A,Somewhat interested,No,Yes,No,Cash,5.0
+81,A,Somewhat interested,Yes,No,Yes,Cash,6.8
+82,A,Somewhat interested,Yes,No,Yes,Cash,11.3
+83,A,Slightly interested,Yes,No,Yes,Credit card,10.2
+84,A,Not at all interested,Yes,No,Yes,Debit card,18.4
+85,A,Not at all interested,Yes,No,Yes,Debit card,11.5
+86,A,Very interested,No,No,No,Debit card,3.6
+87,A,Very interested,Yes,No,Yes,Credit card,8.5
+88,A,Not at all interested,Yes,Yes,Yes,Credit card,9.4
+89,A,Somewhat interested,Yes,No,No,Debit card,20.3
+90,A,Somewhat interested,Yes,No,Yes,Debit card,4.4
+91,A,Somewhat interested,No,Yes,Yes,Debit card,17.3
+92,A,Somewhat interested,Yes,No,Yes,BNPL,11.2
+93,A,Not at all interested,No,Yes,No,Cash,17.2
+94,A,Somewhat interested,No,Yes,No,Cash,10.2
+95,A,Somewhat interested,Yes,No,Yes,Cash,12.4
+96,A,Somewhat interested,Yes,No,Yes,Cash,12.7
+97,A,Somewhat interested,No,Yes,No,Credit card,17.9
+98,A,Slightly interested,Yes,No,Yes,Debit card,12.4
+99,A,Not at all interested,Yes,No,Yes,Debit card,7.5
+100,A,Not at all interested,Yes,No,Yes,Debit card,13.2
+101,A,Not at all interested,Yes,No,Yes,Credit card,10.1
+102,A,Somewhat interested,No,No,No,Credit card,6.8
+103,A,Somewhat interested,Yes,No,Yes,Debit card,4.9
+104,A,Somewhat interested,Yes,No,Yes,Debit card,12.7
+105,A,Somewhat interested,No,No,No,Debit card,8.9
+106,A,Slightly interested,Yes,Yes,Yes,BNPL,20.4
+107,A,Not at all interested,Yes,No,Yes,Cash,17.3
+108,A,Not at all interested,Yes,No,Yes,Cash,8.1
+109,A,Very interested,Yes,No,Yes,Cash,7.0
+110,A,Very interested,Yes,No,Yes,Cash,11.8
+111,A,Not at all interested,No,Yes,No,Credit card,13.2
+112,A,Somewhat interested,Yes,No,Yes,Debit card,18.2
+113,A,Somewhat interested,Yes,No,Yes,Debit card,5.6
+114,A,Somewhat interested,Yes,No,Yes,Debit card,19.2
+115,A,Not at all interested,Yes,No,Yes,Credit card,3.2
+116,A,Somewhat interested,No,Yes,No,Credit card,9.6
+117,A,Somewhat interested,Yes,No,Yes,Debit card,11.1
+118,A,Somewhat interested,No,Yes,Yes,Debit card,20.0
+119,A,Somewhat interested,No,Yes,No,Debit card,2.3
+120,A,Slightly interested,Yes,No,Yes,BNPL,11.0
+121,A,Not at all interested,Yes,Yes,Yes,Cash,3.5
+122,A,Not at all interested,No,Yes,No,Cash,4.2
+123,A,Very interested,Yes,Yes,Yes,Cash,12.5
+124,A,Very interested,Yes,Yes,Yes,Cash,3.4
+125,A,Somewhat interested,Yes,Yes,Yes,Credit card,2.9
+126,A,Slightly interested,Yes,Yes,Yes,Debit card,17.3
+127,A,Not at all interested,No,Yes,No,Debit card,5.9
+128,A,Not at all interested,Yes,No,Yes,Debit card,4.4
+129,A,Somewhat interested,Yes,No,Yes,Credit card,12.1
+130,B,Somewhat interested,No,Yes,Yes,Credit card,11.1
+131,B,Somewhat interested,Yes,No,No,Debit card,7.9
+132,B,Somewhat interested,Yes,No,Yes,Debit card,15.2
+133,B,Slightly interested,Yes,No,Yes,Debit card,14.8
+134,B,Not at all interested,Yes,No,Yes,BNPL,20.8
+135,B,Not at all interested,Yes,No,Yes,Cash,8.3
+136,B,Very interested,No,Yes,No,Cash,20.5
+137,B,Very interested,Yes,No,Yes,Cash,8.7
+138,B,Very interested,Yes,No,Yes,Cash,14.2
+139,B,Very interested,Yes,No,Yes,Credit card,13.0
+140,B,Not at all interested,Yes,No,Yes,Debit card,3.5
+141,B,Somewhat interested,Yes,No,Yes,Debit card,14.3
+142,B,Somewhat interested,Yes,No,Yes,Debit card,19.0
+143,B,Somewhat interested,No,Yes,No,Credit card,13.7
+144,B,Somewhat interested,Yes,No,Yes,Credit card,13.5
+145,B,Slightly interested,Yes,No,Yes,Debit card,5.3
+146,B,Not at all interested,Yes,No,Yes,Debit card,20.7
+147,B,Not at all interested,Yes,No,Yes,Credit card,13.7
+148,B,Somewhat interested,No,Yes,Yes,Debit card,1.8
+149,B,Somewhat interested,Yes,No,No,Debit card,20.8
+150,B,Somewhat interested,Yes,No,Yes,Debit card,11.4
+151,B,Somewhat interested,No,Yes,Yes,Credit card,7.3
+152,B,Slightly interested,Yes,No,Yes,Credit card,18.3
+153,B,Not at all interested,Yes,No,Yes,Debit card,5.3
+154,B,Not at all interested,Yes,No,Yes,Debit card,8.8
+155,B,Not at all interested,Yes,No,Yes,Debit card,2.5
+156,B,Somewhat interested,Yes,No,Yes,BNPL,15.7
+157,B,Somewhat interested,Yes,No,Yes,Cash,18.2
+158,B,Somewhat interested,Yes,No,Yes,Cash,14.4
+159,B,Somewhat interested,No,Yes,No,Cash,16.4
+160,B,Slightly interested,Yes,No,Yes,Cash,6.1
+161,B,Not at all interested,Yes,Yes,Yes,Credit card,13.5
+162,B,Not at all interested,Yes,No,Yes,Debit card,5.2
+163,B,Somewhat interested,Yes,No,Yes,Debit card,1.7
+164,B,Somewhat interested,No,Yes,No,Debit card,7.6
+165,B,Somewhat interested,Yes,No,Yes,Credit card,18.3
+166,B,Somewhat interested,Yes,No,Yes,Credit card,14.9
+167,B,Slightly interested,No,Yes,No,Debit card,20.7
+168,B,Not at all interested,Yes,No,Yes,Debit card,10.3
+169,B,Not at all interested,Yes,No,Yes,Debit card,10.3
+170,B,Very interested,Yes,No,Yes,BNPL,20.5
+171,B,Very interested,Yes,No,Yes,Cash,12.4
+172,B,Very interested,Yes,Yes,Yes,Cash,18.4
+173,B,Not at all interested,No,Yes,No,Cash,14.2
+174,B,Somewhat interested,Yes,Yes,Yes,Cash,12.6
+175,B,Somewhat interested,Yes,Yes,Yes,Credit card,15.2
+176,B,Somewhat interested,Yes,Yes,Yes,Debit card,20.6
+177,B,Somewhat interested,Yes,No,Yes,Debit card,15.8
+178,B,Not at all interested,No,Yes,No,Debit card,2.7
+179,B,Somewhat interested,Yes,No,Yes,Credit card,2.0
+180,B,Somewhat interested,Yes,No,Yes,Credit card,20.8
+181,B,Somewhat interested,No,Yes,No,Debit card,21.2
+182,B,Somewhat interested,Yes,No,Yes,Debit card,2.5
+183,B,Slightly interested,Yes,No,Yes,Debit card,6.4
+184,B,Not at all interested,Yes,No,Yes,BNPL,19.1
+185,B,Not at all interested,Yes,No,No,Cash,21.3
+186,B,Very interested,No,Yes,Yes,Cash,12.6
+187,B,Very interested,Yes,No,Yes,Cash,15.8
+188,B,Not at all interested,Yes,No,Yes,Cash,6.8
+189,B,Somewhat interested,No,Yes,No,Credit card,3.3
+190,B,Somewhat interested,Yes,No,Yes,Debit card,17.9
+191,B,Somewhat interested,Yes,No,Yes,Debit card,15.8
+192,B,Somewhat interested,Yes,No,Yes,Debit card,11.4
+193,B,Not at all interested,Yes,No,Yes,Credit card,8.2
+194,B,Somewhat interested,Yes,No,Yes,Credit card,8.5
+195,B,Somewhat interested,No,Yes,No,Debit card,17.0
+196,B,Somewhat interested,Yes,No,Yes,Debit card,13.8
+197,B,Somewhat interested,Yes,No,Yes,Debit card,12.1
+198,B,Slightly interested,Yes,No,Yes,Debit card,6.1
+199,B,Not at all interested,Yes,No,Yes,Debit card,15.2
