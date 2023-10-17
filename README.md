@@ -1,5 +1,3 @@
 # cluster analysis
 
-GOT A DATASET WITH CONSUMER DATA ON WHAT RETAIL ITEMS THEY BOUGHT AND FREQUENCY OF ENCAGEMENT IN DIFFERENT RETAIL CHANNELS
-
-GOAL IS TO IDENTIFY CLUSTERS OF CONSUMERS AND HOW THEY ARE LIKELY TO ENGAGE IN COMMERCE, AND WETHER CERTAIN DEMO GROUPS
+Got a dataset with consumer data on what retail items they bought and frequency of engagement in different retail channel. Goal is to identify clusters of consumers and how they are likely to engage in commerce, and whether certain demo groups
