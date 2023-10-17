@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 from kmodes.kmodes import KModes
 from sklearn.metrics import silhouette_score, davies_bouldin_score, calinski_harabasz_score
@@ -9,7 +8,7 @@ df=pd.read_csv("RetailHabits.csv")
 codes=pd.read_csv("Codebook.csv")
 
 # GOT A DATASET WITH CONSUMER DATA ON WHAT RETAIL ITEMS THEY BOUGHT AND FREQUENCY OF ENCAGEMENT IN DIFFERENT RETAIL CHANNELS
-#CAMBIO PIO
+#CAMBIO PIO 2
 
 # GOAL IS TO IDENTIFY CLUSTERS OF CONSUMERS AND HOW THEY ARE LIKELY TO ENGAGE IN COMMERCE, AND WETHER CERTAIN DEMO GROUPS
 ## ARE MORE OR LESS LIKELY TO BELONG TO A GIVEN CLUSTER
