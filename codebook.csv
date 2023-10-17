@@ -1,0 +1,21 @@
+﻿Code,Full,Short
+A1,Did you purchase any of the following types of non-grocery retail products in the past 30 days? Check all that apply. - Automobile,Purchased an automobile in the past 30 days
+A2,"Did you purchase any of the following types of non-grocery retail products in the past 30 days? Check all that apply. - Automotive parts, accessories or tires",Purchased automotive parts in the past 30 days
+A3,Did you purchase any of the following types of non-grocery retail products in the past 30 days? Check all that apply. - Other motor vehicles or their parts and accessories,Purchased other vehicle or their parts in the past 30 days
+A4,Did you purchase any of the following types of non-grocery retail products in the past 30 days? Check all that apply. - Furniture or home furnishings,Purchased furnishing in the past 30 days
+A5,Did you purchase any of the following types of non-grocery retail products in the past 30 days? Check all that apply. - Electronics or appliances,Purchased electronics in the past 30 days
+A6,Did you purchase any of the following types of non-grocery retail products in the past 30 days? Check all that apply. - Building material or garden equipment and supplies,Purchased building materials in the past 30 days
+A7,"Did you purchase any of the following types of non-grocery retail products in the past 30 days? Check all that apply. - Beer, wine, or liquor",Purchased alcohol in the past 30 days
+A8,Did you purchase any of the following types of non-grocery retail products in the past 30 days? Check all that apply. - Health or personal care items,Purchased personal care items in the past 30 days
+A9,Did you purchase any of the following types of non-grocery retail products in the past 30 days? Check all that apply. - Gasoline,Purchased gasoline in the past 30 days
+A10,Did you purchase any of the following types of non-grocery retail products in the past 30 days? Check all that apply. - Clothing or clothing accessories,Purchased clothing in the past 30 days
+B1,"How frequently, if at all, did you use each of the following ways to shop for products other than groceries in the last 30 days? - I went to a store to select and purchase these products.",Shopping method frequency of utilization: in-store
+B2,"How frequently, if at all, did you use each of the following ways to shop for products other than groceries in the last 30 days? - I purchased these products online from a store and had them delivered to my home.",Shopping method frequency of utilization: online with delivery
+B3,"How frequently, if at all, did you use each of the following ways to shop for products other than groceries in the last 30 days? - I purchased these products online and picked them up curbside from a store.",Shopping method frequency of utilization: curbisde
+B4,"How frequently, if at all, did you use each of the following ways to shop for products other than groceries in the last 30 days? - I purchased these products from the online site of a merchant and picked them up inside a store.",Shopping method frequency of utilization: pickup
+B5,"How frequently, if at all, did you use each of the following ways to shop for products other than groceries in the last 30 days? - I received items from an online subscription that delivers these on a regular basis.",Shopping method frequency of utilization: subscription
+B6,"How frequently, if at all, did you use each of the following ways to shop for products other than groceries in the last 30 days? - I purchased from a same-day delivery website such as Shipt.",Shopping method frequency of utilization: Shipt
+B7,"How frequently, if at all, did you use each of the following ways to shop for products other than groceries in the last 30 days? - I purchased these products from the online site of a marketplace (i.e. Amazon, etsy, eBay, Overstock, etc.)",Shopping method frequency of utilization: marketplaces
+C1,What is your gender?,Gender
+C2,How old are you?,Age
+C3,What is your marital status?,Marital status
