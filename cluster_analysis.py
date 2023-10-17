@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 from kmodes.kmodes import KModes
 from sklearn.metrics import silhouette_score, davies_bouldin_score, calinski_harabasz_score
