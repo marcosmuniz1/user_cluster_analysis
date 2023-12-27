@@ -1,3 +1,3 @@
 # cluster analysis
 
-Got a dataset with consumer data on what retail items they bought and frequency of engagement in different retail channel. Goal is to identify clusters of consumers and how they are likely to engage in commerce, and whether certain demo groups
+Using survey data on online retail behaviour, the script aims to identify clusters of consumers based on connected behaviour, and to predict how each is likely to engage in commerce, as well as the prevalence of each behaviour type across demographic subsets
